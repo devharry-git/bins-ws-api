@@ -1,0 +1,13 @@
+{
+    "name": "@devharry-git/Bins-Ws-API",
+    "description": "A microservice to fetch bin details from bins.ws",
+    "keywords": [
+        "bins",
+        "api",
+        "deta"
+    ],
+    "repository": "https://github.com/devharry-git/bins-ws-api",
+    "logo": "https://telegra.ph/file/87c00363c1973f1c53b47.jpg",
+    "success_url": "https://github.com/devharry-git/bins-ws-api",
+    "image": "heroku/nodejs"
+}
