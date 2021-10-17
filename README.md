@@ -14,11 +14,11 @@ Note: Although bins.ws looks similar to bins.su but I don't know if they have th
 
 ## API
 
-Send Get Request to `http://yourhost:port/api/{bin}`
+Send Get Request to `http://yourhost:port/{bin}`
 
 ## Example
 
-Request to : `https://localhost:3000/api/439192`
+Request to : `https://localhost:3000/439192`
 
 Response : 
 
